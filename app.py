@@ -1,5 +1,5 @@
 import os
-from flask import Flask, render_template, send_from_directory, redirect, url_for, request, Response
+from flask import Flask, render_template, send_from_directory, redirect, url_for, request
 from werkzeug.utils import secure_filename
 import subprocess
 import cv2

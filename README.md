@@ -1,2 +1,2 @@
-# Flask-CatBreed
-The source code of Flask Cat Breed classifier using YOLOv5
+# Flask_YOLOv5
+The personal documentation of running YOLOv5 with Flask
